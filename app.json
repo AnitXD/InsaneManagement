@@ -9,7 +9,7 @@
          "manager",
          "Insane"
       ],   
-   "repository": "https://github.com/TheTeamInsane/InsaneManagement",
+   "repository": "https://github.com/TheTeamInsane",
    "stack": "heroku-22",
    "addons": [
       {
